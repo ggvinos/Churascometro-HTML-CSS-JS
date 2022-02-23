@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;800&family=Zen+Kaku+Gothic+Antique:wght@300;900&display=swap');
+
+body{
+    display: flexbox;
+    flex-direction: row;
+    background-image: url(/images/3662401.png);
+    background-repeat: no-repeat ;
+    background-size: 100%;
+
+    
+}
+
+.global{
+    background-image: linear-gradient(to right, #f83600 0%, #f9d423 100%);
+    width: 700px;
+    height: 450px;
+    margin: auto;
+    padding-left: 20px;
+    border-radius: 30px;
+    display: flex;
+    margin-top: 20px;
+   
+    justify-content: space-between
+    
+
+}
+
+.container{
+    
+    
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+    
+    color: aliceblue;
+    
+}
+input{
+    
+    
+    
+    padding: 10px;
+    margin-bottom: 5px;
+    box-sizing: border-box;
+    border: 10px;
+    border-radius: 10px;
+
+    
+}
+.bot{
+    
+    background-color: #812910;
+    border: 20px ;
+    border-radius: 10px;
+    
+    height: 60px;
+    font-family: 'inter',bold,  sans-serif;
+    font-size: 30px;
+    font-style: strong;
+    color: white;
+
+
+    
+    
+    
+}
+
+
+.titulos{
+    
+    padding: 0;
+    margin: 0;
+    
+    
+} 
